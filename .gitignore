@@ -1,0 +1,21 @@
+# Carpetas de compilación
+/target/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de configuración de Maven
+.mvn/
+
+# Archivos sensibles o personales
+*.log
+*.tmp
+*.bak
+*.swp
+config.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
